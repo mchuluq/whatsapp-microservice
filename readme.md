@@ -21,7 +21,7 @@ A Node.js microservice for sending bulk WhatsApp messages with support for text,
 
 ```
 # Clone repository
-git clone https://github.com/mchuluq/whatsapp-micro-service.git
+git clone https://github.com/mchuluq/whatsapp-microservice.git
 
 # Install dependencies
 cd whatsapp-micro-service
